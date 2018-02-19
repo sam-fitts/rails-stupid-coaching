@@ -13,3 +13,37 @@
  *= require_tree .
  *= require_self
  */
+
+.you {
+  font-size: 20pt;
+  background-color: lightgrey;
+  color: darkred;
+  padding: 30px;
+  border-left: 5px solid maroon;
+  margin: 15px;
+  font-weight: bold;
+  width: 25%;
+}
+
+.coach {
+  font-size: 20pt;
+  background-color: darkgrey;
+  color: white;
+  padding: 30px;
+  border-left: 5px solid black;
+  margin: 15px;
+  font-weight: bold;
+  width: 25%;
+}
+
+.link {
+  font-size: 12pt;
+  background-color: lightblue;
+  color: green;
+  padding: 10px;
+  border-left: 5px solid lightgreen;
+  margin: 15px;
+  font-weight: bold;
+  width: 10%;
+  text-decoration: none;
+}
